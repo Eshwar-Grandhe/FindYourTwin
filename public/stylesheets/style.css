@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+}
+h1 , h3{
+  font-size: 4rem!important;
+}
+h2{
+  color: black;
+  ;
+}
+label{
+  padding-left: 40px;
+}
+div{
+  padding-top: 5rem;
+}
+a {
+  color: #00B7FF;
+}
